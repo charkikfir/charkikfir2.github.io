@@ -14,7 +14,7 @@ With this application, you will be able to fully control your [Bot User] account
 
 ### Disclaimer
 
-This application is very Bare-Bones, and is not close to being complete, It is currently more of a "Proof of Concept".  I will keep working on this with more improvements and features to try to let this application run as close to the native Discord client as I can get.
+This aplication is very Bare-Bones, and is not close to being complete, It is currently more of a "Proof of Concept".  I will keep working on this with more improvements and features to try to let this application run as close to the native Discord client as I can get.
 
 ### Recent Changes
 
